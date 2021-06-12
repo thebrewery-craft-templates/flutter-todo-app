@@ -6,8 +6,8 @@ The objective of this repo is to provide a starter example for developers opting
 
 ## Getting Started
 
-1. Go to your Craft application settings page.
-2. Edit `./lib/constants.dart' and copy the needed credentials. 
+1. Go to your Craft application's Settings page.
+2. Edit `./lib/constants.dart` and copy the needed credentials. 
 
 For help getting started with Flutter, view the online
 [documentation](https://flutter.io/).

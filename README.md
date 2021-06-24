@@ -6,7 +6,7 @@ The objective of this repo is to provide a starter example for developers opting
 
 ## Getting Started
 
-1. Open `./lib/application_constants.dart`
+1. Open `./lib/constants.dart`
 2. Go to your Craft application settings page and copy/paste the needed credentials. 
 
 >Tested on Flutter (Channel stable, 2.2.1, on macOS 11.4) and Dart SDK version: 2.13.1 (stable)
